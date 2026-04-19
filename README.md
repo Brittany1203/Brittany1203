@@ -14,8 +14,3 @@
 - Python (pandas, sklearn)
 - Data Analysis
 - Machine Learning (basic)
-
----
-
-## 📫 Contact
-- Email: (optional)
