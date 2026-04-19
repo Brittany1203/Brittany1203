@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Brittany 👋
 
-<!--
-**Brittany1203/Brittany1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Statistics & Data Science @ University of Macau  
+📊 Interested in AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- (Coming soon...)
+
+---
+
+## 🛠 Skills
+- Python (pandas, sklearn)
+- Data Analysis
+- Machine Learning (basic)
+
+---
+
+## 📫 Contact
+- Email: (optional)
