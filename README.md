@@ -6,7 +6,10 @@
 ---
 
 ## 🚀 Projects
-- (Coming soon...)
+- NLP Named Entity Recognition Web App
+- Built an end-to-end person-name recognition system using a Maximum Entropy-style classifier and custom linguistic features.
+- Evaluated the model on a CoNLL-style BIO dataset using precision, recall, F1-score, and baseline comparison.
+- Deployed an interactive Streamlit app for entity highlighting and token-level BIO prediction visualization.
 
 ---
 
