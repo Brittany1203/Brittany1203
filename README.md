@@ -1,7 +1,7 @@
 # Hi, I'm Brittany 👋
 
 🎓 Statistics & Data Science @ University of Macau  
-📊 Interested in AI
+📊 Interested in data engineering
 
 ---
 
